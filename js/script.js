@@ -187,7 +187,7 @@ function addHeader () {
   document.getElementById("navigator").classList.add("fixed-header");
   document.getElementById("mobileHeader").classList.add("fixed-header");
   document.getElementById("navigator").classList.add("bg-flat-grey");
-  document.getElementById("headerText").innerHTML = "Amir Suhail";
+  document.getElementById("headerText").innerHTML = "Ajaibabu TS";
   var selectedElem = document.getElementById("navigator").children[0];
   selectedElem.classList.remove("active-about");
   //bg-flat-dark-blue
